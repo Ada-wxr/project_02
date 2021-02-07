@@ -1,0 +1,4 @@
+#忽略inde.css这个文件
+index.css
+#忽略images目录下的所有文件
+images/
